@@ -1,6 +1,6 @@
 {
   "name": "kasia2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "new version of kasia",
   "main": "index.js",
   "scripts": {
@@ -10,17 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/codestance/kasia2.git"
   },
-  "author": "",
+  "author": "codestance",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/marrow00/kasia2/issues"
   },
   "homepage": "https://github.com/marrow00/kasia2#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
   },
   "dependencies": {
-    "browser-sync": "^2.26.13",
+    "browser-sync": "^2.26.14",
     "eslint": "^6.8.0",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-clean-css": "^4.3.0",
