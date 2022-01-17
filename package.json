@@ -17,14 +17,15 @@
   },
   "homepage": "https://github.com/marrow00/kasia2#readme",
   "devDependencies": {
+    "glob-parent": "^6.0.2",
     "gulp": "^4.0.2"
   },
   "dependencies": {
-    "browser-sync": "^2.26.13",
+    "browser-sync": "^2.27.7",
     "eslint": "^6.8.0",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-clean-css": "^4.3.0",
-    "gulp-sass": "^4.1.0"
+    "gulp-sass": "^4.1.1"
   },
   "browserslist": [
     ">1%",
